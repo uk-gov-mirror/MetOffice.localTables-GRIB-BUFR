@@ -24,6 +24,7 @@ STASH code,Parameter,Description,Unit,Discipline,Category,Number
 20059,dust concentration,,g/m3,0,13,192
 431,dust mass mixing ratio division 1,,kg/kg,0,13,193
 432,dust mass mixing ratio division 2,,kg/kg,0,13,194
+,dust mass concentration,,kg/m3,0,20,200
 431,dust mass mixing ratio (0.2-4.0 microns),Mass mixing ratio representing the mass of dust in a unit mass of air. Particles in the range 0.2 - 4.0 microns in diameter.,kg/kg,0,20,192
 432,dust mass mixing ratio (4.0-20.0 microns),Mass mixing ratio representing the mass of dust in a unit mass of air. Particles in the range 4.0 - 20.0 microns in diameter.,kg/kg,0,20,193
 431,dust mass mixing ratio (0.03-0.1 microns),Mass mixing ratio representing the mass of dust in a unit mass of air. Particles in the range 0.03 - 0.1 microns in diameter.,kg/kg,0,20,194
